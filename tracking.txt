@@ -1,0 +1,109 @@
+ls.srvcs.tumblr.com # Tumblr
+deliver.oztam.com.au # ABC iView
+collector.abc-host.net.au # ABC iView
+cws.conviva.com
+app-analytics.snapchat.com # Snapchat
+telemetry.nvidia.com
+telemetry.gfe.nvidia.com
+telemetry.malwarebytes.com # Malwarebytes
+tags.tiqcdn.com # Ancestery
+open.oneplus.net # Android
+ctoid.net # HSTS Supercookie http://bit.ly/2xJJUPP
+metrics.plex.tv
+analytics.plex.tv
+invisioncloudstats.com
+api.branch.io
+www.usekahuna.com
+gate.hockeyapp.net
+msmetrics.ws.sonos.com
+analytics.kidoz.net # Hopster
+sdk.kidoz.net
+cdn.kidoz.net
+advertising.oriel.io
+www.adiode.com # Anti adblock
+adiode.com
+d35fgcharv2shj.cloudfront.net # Adobe telemetry
+rules.quantcount.com
+api.viafoura.co
+placements.tapjoy.com
+content.tapjoy.com
+rpc.tapjoy.com
+api.redshell.io # https://redd.it/8pud8b
+in.treasuredata.com # RedShell
+tracking.monsido.com
+stats.zotabox.com
+static.zotabox.com
+batch.upsight-api.com
+single.upsight-api.com
+bootstrap.upsight-api.com
+fast-nc.appcues.com
+analytics.servogram.io
+ancestry.siteintercept.qualtrics.com
+www.movable-ink-2183.com
+assets.micpn.com # MovableInk
+ink1001.com # MovableInk
+c.tracking.goodgamestudios.com
+cdn.monsido.com
+incoming.telemetry.mozilla.org
+info.muxy.io
+melonmail.melon.com.au
+metric.kleientertainment.com
+monetize-api.coronalabs.com
+phonograph2.voxmedia.com
+platform.cloud-iq.com.au
+psa.carambo.la
+public.vilynx.com
+reports.crashlytics.com
+secure.informaction.com
+serve.adtrackers.net
+sofia.trustx.org
+ssor.tribdss.com
+statgw2.devtodev.com
+track.mmsvc.io
+api.south.kontagent.net
+kvinit-prod.api.kochava.com
+is-tracking-pixel-api-prod.appspot.com
+rs.fullstory.com
+api-lytics.macpaw.com
+www.fullstory.com
+gate.datacaciques.com # 3rd party eBay Seller Metrics
+adc-ad-assets.adtilt.com
+file-cdn.beeketing.com
+static-assets-queue-it.net # https://bit.ly/2NQzE0I
+acdn.adnxs.com
+iphone.aut5.com # https://t.co/8OWVnDjucG
+update.aut5.com
+analytics.ff.avast.com # CCleaner Temeletry
+ip-info.ff.avast.com
+ipm-provider.ff.avast.com
+v7event.stats.avast.com
+acdn.adnxs.com
+api.privy.com
+app.adjust.com
+cdn.districtm.io
+dc.railgun.works
+deploygate.com
+detect.rayjump.com
+gate.datacaciques.com
+i.frg.im
+open.inkfrog.com
+thor.blindferret.media
+thor.rtk.io
+jita.rtk.io
+sync.rtk.io
+match.prod.bidr.io
+pingback.issuu.com
+scs.webtrends.com
+sdk-cdn.beeketing.com
+sdk.beeketing.com
+settings.crashlytics.com
+sdk.appsflyer.com
+stats.appsflyer.com
+static.tidiochat.com
+settings.crashlytics.com
+app.adjust.com
+buy-au.piano.io
+piano.io
+trk.klclick.com
+collectorb.tvsquared.com
+stats.graitec.net
