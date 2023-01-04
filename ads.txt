@@ -74,8 +74,6 @@ pool.tumblr.iponweb.net
 0.0.0.0 d.adroll.com
 0.0.0.0 ups.analytics.yahoo.com
 0.0.0.0 sync.adotmob.com
-d7luqmstmj331.cloudfront.net
-cdn.samsungcloudsolution.com
 lcprd1.samsungcloudsolution.net
 osb-v2.samsungqbe.com
 feed-service-v2.services.pbs.org
@@ -84,4 +82,3 @@ config-cd-dmgz.bamgrid.com
 preapp.prod.partner.netflix.net
 dss-hydra-feeds-prod.bamgrid.com
 occ-0-2288-114.1.nflxso.net
-preapp.prod.partner.netflix.net
