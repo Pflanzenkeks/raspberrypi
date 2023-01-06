@@ -68,37 +68,3 @@ sdk.iad-06.braze.com
 ads-eu.amillionads.com
 ad.mopub.com
 pool.tumblr.iponweb.net
-0.0.0.0 tvx.adgrx.com
-0.0.0.0 rtb.adgrx.com
-0.0.0.0 d7luqmstmj331.cloudfront.net
-0.0.0.0 img-resize-cdn-prod.samsungnyc.com
-0.0.0.0 ads.everesttech.net
-0.0.0.0 px.moatads.com
-0.0.0.0 geo.moatads.com
-0.0.0.0 ads.servenobid.com
-0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 ad.doubleclick.net
-0.0.0.0 mb.moatads.com
-0.0.0.0 ads.servenobid.com
-0.0.0.0 a3355.casalemedia.com 
-0.0.0.0 usersync.gumgum.com
-0.0.0.0 insight.adsrvr.org
-0.0.0.0 ib.adnxs.com
-0.0.0.0 c1.adform.net
-0.0.0.0 ad4m.at
-0.0.0.0 rtb.adgrx.com
-0.0.0.0 scs.samsungqbe.com
-0.0.0.0 cdn.samsungcloudsolution.com
-0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 safeframe.googlesyndication.com
-0.0.0.0 d.adroll.com
-0.0.0.0 ups.analytics.yahoo.com
-0.0.0.0 sync.adotmob.com
-lcprd1.samsungcloudsolution.net
-osb-v2.samsungqbe.com
-feed-service-v2.services.pbs.org
-nrdp-ipv6.prod.ftl.netflix.com
-config-cd-dmgz.bamgrid.com
-preapp.prod.partner.netflix.net
-dss-hydra-feeds-prod.bamgrid.com
-occ-0-2288-114.1.nflxso.net
