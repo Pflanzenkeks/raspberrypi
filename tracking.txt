@@ -101,10 +101,8 @@ sdk.appsflyer.com
 stats.appsflyer.com
 static.tidiochat.com
 settings.crashlytics.com
-app.adjust.com
 buy-au.piano.io
 piano.io
 trk.klclick.com
 collectorb.tvsquared.com
 stats.graitec.net
-app.adjust.com
