@@ -112,3 +112,9 @@ r3.o.lencr.org
 x1.c.lencr.org	
 x2.c.lencr.org	
 x3.c.lencr.org
+
+(^|\.)usercentrics\.eu$
+/.*\.ingest.sentry.io.*/gm
+(softonic\.com$|uptodown\.com$|malavida\.com$)
+.*\.nmrodam.com
+	watson\..*\.microsoft\.com
