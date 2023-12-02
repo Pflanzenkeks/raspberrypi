@@ -106,3 +106,5 @@ piano.io
 trk.klclick.com
 collectorb.tvsquared.com
 stats.graitec.net
+secure-eu.nmrodam.com
+dls.di.atlas.samsung.com
