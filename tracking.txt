@@ -108,3 +108,7 @@ collectorb.tvsquared.com
 stats.graitec.net
 secure-eu.nmrodam.com
 dls.di.atlas.samsung.com
+r3.o.lencr.org	
+x1.c.lencr.org	
+x2.c.lencr.org	
+x3.c.lencr.org
